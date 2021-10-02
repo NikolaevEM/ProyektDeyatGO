@@ -1,3 +1,2 @@
-# ProyektDeyatGO
-IVT-18 Nikolaev Erken
+# IVT81 Nikolaev Erken
 GoLang typical b-end
